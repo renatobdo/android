@@ -1,0 +1,26 @@
+package com.ifsp.sorteio;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.view.View;
+import android.widget.TextView;
+
+import java.util.Random;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+    }
+    public void sorteia(View view){
+        TextView text = findViewById(R.id.resultadoSorteio);
+        //https://www.devmedia.com.br/numeros-aleatorios-em-java-a-classe-java-util-random/26355
+
+        Random gerador = new Random();
+        int numero = gerador.nextInt(11);
+        text.setText("Resultado = "+numero);
+    }
+}
