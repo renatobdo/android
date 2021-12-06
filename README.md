@@ -10,12 +10,12 @@
 - Conexão com internet
 - Windows, linux ou MAC
 - meet https://meet.google.com/trw-yxfq-drc  primeiro encontro dia 06/12/2021 às 19h
+- Canal do Youtube: https://www.youtube.com/watch?v=XMjgkFkdce4
 
 # Primeiros passos
 https://developer.android.com/studio/intro
 
 # História
 
-https://www.youtube.com/watch?v=5bw7JonLwyg&t=1s
-https://pt.wikipedia.org/wiki/Hist%C3%B3rico_de_vers%C3%B5es_do_Android 
+https://www.youtube.com/watch?v=XMjgkFkdce4
 
