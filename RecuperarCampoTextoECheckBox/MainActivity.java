@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        EditText nomeEdit = findViewById(R.id.editTextNome);
-        EditText emailEdit = findViewById(R.id.editTextEmail);
+        nomeEdit = findViewById(R.id.editTextNome);
+        emailEdit = findViewById(R.id.editTextEmail);
 
         nome = nomeEdit.getText().toString();
         email = emailEdit.getText().toString();
