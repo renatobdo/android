@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
             resultado = "básico foi selecionado";
         }
         if (intermediario.isChecked()){
-            resultado = resultado +" intermidiário foi selecionado";
+            resultado = resultado +" intermediário foi selecionado";
         }
         if (avancado.isChecked()){
             resultado = resultado+" avançado foi selecionado";
