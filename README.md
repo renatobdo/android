@@ -19,3 +19,5 @@ https://developer.android.com/studio/intro
 
 https://www.youtube.com/watch?v=XMjgkFkdce4
 
+# Exercício
+https://forms.gle/urMwDXYxpDaeArEL9
