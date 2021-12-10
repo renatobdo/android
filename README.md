@@ -12,12 +12,18 @@
 - meet https://meet.google.com/trw-yxfq-drc  primeiro encontro dia 06/12/2021 às 19h
 - Canal do Youtube: https://www.youtube.com/watch?v=XMjgkFkdce4
 
+# Cronograma de aulas
+Aula 1 - 06/12/2021 - VideoAulas 1 a 7
+Aula 2 - 07/12/2021 - VideoAulas 8 a 10
+Aula 3 - 09/12/2021 - VideoAulas 11 a 17
+Aula 4 - 10/12/2021 - VideoAulas 18 a 20
+Exercícios: https://forms.gle/urMwDXYxpDaeArEL9
+Aula 5 - 13/12/2021 - VideoAulas ?
+Aula 6 - 14/12/2021 - VideoAulas ?
+
 # Primeiros passos
 https://developer.android.com/studio/intro
 
 # História
 
 https://www.youtube.com/watch?v=XMjgkFkdce4
-
-# Exercício
-https://forms.gle/urMwDXYxpDaeArEL9
