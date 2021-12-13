@@ -27,6 +27,8 @@ Aula 5 - 13/12/2021 - VideoAulas 21, 22 e 23
 
 Aula 6 - 14/12/2021 - VideoAulas ?
 
+Aula 7 - Apresentação do aplicativo desenvolvido pelos estudantes 16/12/2021?
+
 
 # Primeiros passos
 https://developer.android.com/studio/intro
