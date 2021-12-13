@@ -33,8 +33,37 @@ public class MainActivity extends AppCompatActivity {
             imagemVinho2.setImageResource(R.drawable.vinhobrancochile);
         }
         if (valorSelecionado.equals("Tinto")) {
-            resultado.setText("Um vinho de intensos aromas de flores e frutas tropicais);
-            imagemVinho2.setImageResource(R.drawable.vinhotintochile);
+            resultado.setText(
+                    "Origem: Bento Gonçalves - rs - Brasil\n" +
+                    "Corpo: Médio\n" +
+                    "Teor Alcólico: 12%\n" +
+                    "Temperatura de Serviço: 16° a 18°C\n" +
+                    "Castas de Uva: Assemblage de varietais com predominância de Cabernet Franc e Merlot.\n" +
+                    "Aroma: A uva Merlot propicia um vinho de agradáveis aromas, lembrando frutas vermelhas, de acentuada leveza e agradável frescor.\n" +
+                    "Paladar: Este vinho, é o resultado do Assemblage de varietais. é um vinho seco, macio e de paladar harmonioso. Tem aroma frutado, de coloração rubi, de boa estrutura e corpo.\n" +
+                    "Harmonização: Acompanha queijos de massa média, massas com molhos de tomate, risotos e carne vermelha grelhada.");
+            imagemVinho2.setImageResource(R.drawable.vinhotinto);
+        }
+        if (valorSelecionado.equals("Espumante")) {
+            resultado.setText(
+                    "Espumante Brasileiro Branco Brut Saint Germain Serra Gaúcha Garrafa 660ml\n" +
+                            "Harmonizará com pratos mais leves,devido ao seu frescor e estrutura média. \nAntepastos frios e em conservas,como pequenos peixes com azeite de oliva,filé de anchovas,peixes brancos empanados ou grelhados,vários preparos com frango -como ao alho e óleo"
+                         );
+            imagemVinho2.setImageResource(R.drawable.espumante);
+        }
+        if (valorSelecionado.equals("Curiosidades")) {
+            resultado.setText("1. Aliado do coração\n" +
+                    "2. Potencializador do Cérebro\n" +
+                    "3. Aliado na perda de peso\n" +
+                    "4. Melhora o desempenho físico\n" +
+                    "5. Melhora o sistema imunológico\n" +
+                    "6. Aliado do colesterol\n" +
+                    "7. Reduz risco de doença renal");
+            imagemVinho2.setImageResource(R.drawable.tacaspordia);
+        }
+        if (valorSelecionado.equals("Escolha")) {
+            resultado.setText("");
+            imagemVinho2.setImageResource(R.drawable.logovinhos);
         }
 
     }
