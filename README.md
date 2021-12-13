@@ -23,7 +23,7 @@ Aula 4 - 10/12/2021 - VideoAulas 18 a 20
 
 Exercícios: https://forms.gle/urMwDXYxpDaeArEL9
 
-Aula 5 - 13/12/2021 - VideoAulas ?
+Aula 5 - 13/12/2021 - VideoAulas 21, 22 e 23
 
 Aula 6 - 14/12/2021 - VideoAulas ?
 
