@@ -9,11 +9,14 @@
 - Java JDK 11: https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html 
 - Conexão com internet
 - Windows, linux ou MAC
-- meet https://meet.google.com/trw-yxfq-drc  primeiro encontro dia 06/12/2021 às 19h
+- meet https://meet.google.com/trw-yxfq-drc  
+- turma 1: primeiro encontro dia 06/12/2021 às 19h
+- turma 2: primeiro encontro dia 20/04/2022 às 19h
 - Canal do Youtube: https://www.youtube.com/watch?v=XMjgkFkdce4
 
 # Cronograma de aulas
 Aula 1 - 06/12/2021 - VideoAulas 1 a 7
+Aula 1 - 20/04/2022 - VideoAulas 1 a 3
 
 Aula 2 - 07/12/2021 - VideoAulas 8 a 10
 
