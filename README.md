@@ -55,7 +55,8 @@ Seguiremos a playlist do youtube https://www.youtube.com/playlist?list=PL4RrGNFx
     - Questionário 9:
 - Semana 10 - 22/06/2022 - VideoAulas 26
     - Questionário 10:
-
+- Semana 11 - 29/06/2022 - Projeto final
+    - Apresentação dos aplicativos criados pelos estudantes  
 
 # Primeiros passos
 https://developer.android.com/studio/intro
