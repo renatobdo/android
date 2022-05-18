@@ -1,3 +1,4 @@
+//https://acervolima.com/como-gerar-um-arquivo-pdf-no-aplicativo-android/
 package com.example.meuapp;
 
 import static android.Manifest.permission.READ_EXTERNAL_STORAGE;
